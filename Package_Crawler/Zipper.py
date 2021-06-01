@@ -3,7 +3,7 @@
 @author Ben Karabinus
 
 Background: The package crawler project is meant to search Dynamics 365 Finance and Operations data packages for
-legal entity dependence and print the results of the search to an Excel workbook. The project is far rom from finished.
+legal entity dependence and print the results of the search to an Excel workbook. The project is far from from finished.
 As of yet there is no exception handling or unit tests built in to the project. For now package crawler is a simple
 Python project the gets a monotonous task done quickly. If I've shared the GitHub repo with you feel free to contribute.
 Any and all help/ideas are welcome.
